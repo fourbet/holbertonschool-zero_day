@@ -1,1 +1,1 @@
-This project is about how to use Git !
+This project is about how to use Git
