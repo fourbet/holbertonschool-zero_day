@@ -1,0 +1,1 @@
+This project consists of commands line for using Emacs 
